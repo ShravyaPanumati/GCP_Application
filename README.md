@@ -2,22 +2,14 @@ This application is hosted on Google Cloud Platform, which implements inserting 
 
 The project structure goes as follows:
 GCP_Application
-│
-├── /frontend
-│   ├── index.html
-│   ├── script.js
-│   ├── config-map.yaml
-│   ├── Dockerfile
-│
-├── /backend
-│   ├── app.py
-│   ├── requirements.txt
-│   ├── secrets.yaml
-│   ├── gcp_credentials.json  # Google Cloud service account credentials file
-│   ├── Dockerfile
-│
-├── docker-compose.yaml
-├── README.md
+
+frontend: index.html, script.js, config-map.yaml, Dockerfile
+
+backend: app.py, requirements.txt, secrets.yaml, gcp_credentials.json  # Google Cloud service account credentials file, Dockerfile
+
+docker-compose.yaml
+
+README.md
 
 ## Frontend
 
