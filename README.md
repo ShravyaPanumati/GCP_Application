@@ -61,6 +61,6 @@ kubectl apply -f . will deploy all the services to GKE.
 
 kubectl get services- This will show the services running and the external IP associated with it.
 
-Access the application using http://<External Ip>:8080
+Access the application using http://External IP:8080
 
 The testing of the application can be performed by accessing the link and also using postman with their endpoints.
