@@ -36,7 +36,7 @@ The docker-compose.yaml file orchestrates both the frontend and backend services
 
 To run the application locally:
 Clone the repository:
-git clone https://github.com/ShravyaPanumati/GCP_Application.git
+git clone https://github.com/ShravyaPanumati/GCP_Application_Using_Flask.git
 Navigate to the project directory:
 cd my-project
 Build and run the containers using Docker Compose:
