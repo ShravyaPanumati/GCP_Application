@@ -64,3 +64,5 @@ kubectl get services- This will show the services running and the external IP as
 Access the application using http://ExternalIP:8080
 
 The testing of the application can be performed by accessing the link and also using postman with their endpoints.
+The output UI page is as follows:
+![image](https://github.com/user-attachments/assets/43eead17-471b-4504-b412-6ff71d6536f2)
