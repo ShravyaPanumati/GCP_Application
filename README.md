@@ -40,9 +40,9 @@ git clone https://github.com/ShravyaPanumati/GCP_Application.git
 Navigate to the project directory:
 cd my-project
 Build and run the containers using Docker Compose:
-'''
+''''
 docker-compose up --build
-'''
+''''
 This will start both the frontend and backend containers. You can access the frontend by navigating to http://localhost:8080 in your web browser. The backend will be running on http://localhost:5000.
 
 Running the application in Google Cloud Platform
